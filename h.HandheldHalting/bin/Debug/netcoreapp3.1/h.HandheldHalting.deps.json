@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "h.HandheldHalting/1.0.0": {
+        "dependencies": {
+          "a.Common": "1.0.0"
+        },
+        "runtime": {
+          "h.HandheldHalting.dll": {}
+        }
+      },
+      "a.Common/1.0.0": {
+        "runtime": {
+          "a.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "h.HandheldHalting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "a.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

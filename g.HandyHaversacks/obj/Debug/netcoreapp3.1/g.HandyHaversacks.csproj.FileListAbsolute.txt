@@ -1,0 +1,15 @@
+C:\Users\Ace\RiderProjects\AoC2020\g.HandyHaversacks\bin\Debug\netcoreapp3.1\a.Common.exe
+C:\Users\Ace\RiderProjects\AoC2020\g.HandyHaversacks\bin\Debug\netcoreapp3.1\g.HandyHaversacks.exe
+C:\Users\Ace\RiderProjects\AoC2020\g.HandyHaversacks\bin\Debug\netcoreapp3.1\g.HandyHaversacks.deps.json
+C:\Users\Ace\RiderProjects\AoC2020\g.HandyHaversacks\bin\Debug\netcoreapp3.1\g.HandyHaversacks.runtimeconfig.json
+C:\Users\Ace\RiderProjects\AoC2020\g.HandyHaversacks\bin\Debug\netcoreapp3.1\g.HandyHaversacks.runtimeconfig.dev.json
+C:\Users\Ace\RiderProjects\AoC2020\g.HandyHaversacks\bin\Debug\netcoreapp3.1\g.HandyHaversacks.dll
+C:\Users\Ace\RiderProjects\AoC2020\g.HandyHaversacks\bin\Debug\netcoreapp3.1\g.HandyHaversacks.pdb
+C:\Users\Ace\RiderProjects\AoC2020\g.HandyHaversacks\bin\Debug\netcoreapp3.1\a.Common.dll
+C:\Users\Ace\RiderProjects\AoC2020\g.HandyHaversacks\bin\Debug\netcoreapp3.1\a.Common.pdb
+C:\Users\Ace\RiderProjects\AoC2020\g.HandyHaversacks\obj\Debug\netcoreapp3.1\g.HandyHaversacks.csprojAssemblyReference.cache
+C:\Users\Ace\RiderProjects\AoC2020\g.HandyHaversacks\obj\Debug\netcoreapp3.1\g.HandyHaversacks.AssemblyInfoInputs.cache
+C:\Users\Ace\RiderProjects\AoC2020\g.HandyHaversacks\obj\Debug\netcoreapp3.1\g.HandyHaversacks.AssemblyInfo.cs
+C:\Users\Ace\RiderProjects\AoC2020\g.HandyHaversacks\obj\Debug\netcoreapp3.1\g.HandyHaversacks.csproj.CopyComplete
+C:\Users\Ace\RiderProjects\AoC2020\g.HandyHaversacks\obj\Debug\netcoreapp3.1\g.HandyHaversacks.dll
+C:\Users\Ace\RiderProjects\AoC2020\g.HandyHaversacks\obj\Debug\netcoreapp3.1\g.HandyHaversacks.pdb

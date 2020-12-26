@@ -1,0 +1,15 @@
+C:\Users\Ace\RiderProjects\AoC2020\i.EncodingError\bin\Debug\netcoreapp3.1\a.Common.exe
+C:\Users\Ace\RiderProjects\AoC2020\i.EncodingError\bin\Debug\netcoreapp3.1\i.EncodingError.exe
+C:\Users\Ace\RiderProjects\AoC2020\i.EncodingError\bin\Debug\netcoreapp3.1\i.EncodingError.deps.json
+C:\Users\Ace\RiderProjects\AoC2020\i.EncodingError\bin\Debug\netcoreapp3.1\i.EncodingError.runtimeconfig.json
+C:\Users\Ace\RiderProjects\AoC2020\i.EncodingError\bin\Debug\netcoreapp3.1\i.EncodingError.runtimeconfig.dev.json
+C:\Users\Ace\RiderProjects\AoC2020\i.EncodingError\bin\Debug\netcoreapp3.1\i.EncodingError.dll
+C:\Users\Ace\RiderProjects\AoC2020\i.EncodingError\bin\Debug\netcoreapp3.1\i.EncodingError.pdb
+C:\Users\Ace\RiderProjects\AoC2020\i.EncodingError\bin\Debug\netcoreapp3.1\a.Common.dll
+C:\Users\Ace\RiderProjects\AoC2020\i.EncodingError\bin\Debug\netcoreapp3.1\a.Common.pdb
+C:\Users\Ace\RiderProjects\AoC2020\i.EncodingError\obj\Debug\netcoreapp3.1\i.EncodingError.csprojAssemblyReference.cache
+C:\Users\Ace\RiderProjects\AoC2020\i.EncodingError\obj\Debug\netcoreapp3.1\i.EncodingError.AssemblyInfoInputs.cache
+C:\Users\Ace\RiderProjects\AoC2020\i.EncodingError\obj\Debug\netcoreapp3.1\i.EncodingError.AssemblyInfo.cs
+C:\Users\Ace\RiderProjects\AoC2020\i.EncodingError\obj\Debug\netcoreapp3.1\i.EncodingError.csproj.CopyComplete
+C:\Users\Ace\RiderProjects\AoC2020\i.EncodingError\obj\Debug\netcoreapp3.1\i.EncodingError.dll
+C:\Users\Ace\RiderProjects\AoC2020\i.EncodingError\obj\Debug\netcoreapp3.1\i.EncodingError.pdb

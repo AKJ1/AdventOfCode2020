@@ -1,0 +1,15 @@
+C:\Users\Ace\RiderProjects\AoC2020\j.AdapterArray\bin\Debug\netcoreapp3.1\a.Common.exe
+C:\Users\Ace\RiderProjects\AoC2020\j.AdapterArray\bin\Debug\netcoreapp3.1\j.AdapterArray.exe
+C:\Users\Ace\RiderProjects\AoC2020\j.AdapterArray\bin\Debug\netcoreapp3.1\j.AdapterArray.deps.json
+C:\Users\Ace\RiderProjects\AoC2020\j.AdapterArray\bin\Debug\netcoreapp3.1\j.AdapterArray.runtimeconfig.json
+C:\Users\Ace\RiderProjects\AoC2020\j.AdapterArray\bin\Debug\netcoreapp3.1\j.AdapterArray.runtimeconfig.dev.json
+C:\Users\Ace\RiderProjects\AoC2020\j.AdapterArray\bin\Debug\netcoreapp3.1\j.AdapterArray.dll
+C:\Users\Ace\RiderProjects\AoC2020\j.AdapterArray\bin\Debug\netcoreapp3.1\j.AdapterArray.pdb
+C:\Users\Ace\RiderProjects\AoC2020\j.AdapterArray\bin\Debug\netcoreapp3.1\a.Common.dll
+C:\Users\Ace\RiderProjects\AoC2020\j.AdapterArray\bin\Debug\netcoreapp3.1\a.Common.pdb
+C:\Users\Ace\RiderProjects\AoC2020\j.AdapterArray\obj\Debug\netcoreapp3.1\j.AdapterArray.csprojAssemblyReference.cache
+C:\Users\Ace\RiderProjects\AoC2020\j.AdapterArray\obj\Debug\netcoreapp3.1\j.AdapterArray.AssemblyInfoInputs.cache
+C:\Users\Ace\RiderProjects\AoC2020\j.AdapterArray\obj\Debug\netcoreapp3.1\j.AdapterArray.AssemblyInfo.cs
+C:\Users\Ace\RiderProjects\AoC2020\j.AdapterArray\obj\Debug\netcoreapp3.1\j.AdapterArray.csproj.CopyComplete
+C:\Users\Ace\RiderProjects\AoC2020\j.AdapterArray\obj\Debug\netcoreapp3.1\j.AdapterArray.dll
+C:\Users\Ace\RiderProjects\AoC2020\j.AdapterArray\obj\Debug\netcoreapp3.1\j.AdapterArray.pdb

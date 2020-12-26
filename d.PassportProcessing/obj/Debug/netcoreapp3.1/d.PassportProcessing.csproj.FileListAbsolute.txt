@@ -1,0 +1,11 @@
+C:\Users\Ace\RiderProjects\AoC2020\d.PassportProcessing\bin\Debug\netcoreapp3.1\d.PassportProcessing.exe
+C:\Users\Ace\RiderProjects\AoC2020\d.PassportProcessing\bin\Debug\netcoreapp3.1\d.PassportProcessing.deps.json
+C:\Users\Ace\RiderProjects\AoC2020\d.PassportProcessing\bin\Debug\netcoreapp3.1\d.PassportProcessing.runtimeconfig.json
+C:\Users\Ace\RiderProjects\AoC2020\d.PassportProcessing\bin\Debug\netcoreapp3.1\d.PassportProcessing.runtimeconfig.dev.json
+C:\Users\Ace\RiderProjects\AoC2020\d.PassportProcessing\bin\Debug\netcoreapp3.1\d.PassportProcessing.dll
+C:\Users\Ace\RiderProjects\AoC2020\d.PassportProcessing\bin\Debug\netcoreapp3.1\d.PassportProcessing.pdb
+C:\Users\Ace\RiderProjects\AoC2020\d.PassportProcessing\obj\Debug\netcoreapp3.1\d.PassportProcessing.csprojAssemblyReference.cache
+C:\Users\Ace\RiderProjects\AoC2020\d.PassportProcessing\obj\Debug\netcoreapp3.1\d.PassportProcessing.AssemblyInfoInputs.cache
+C:\Users\Ace\RiderProjects\AoC2020\d.PassportProcessing\obj\Debug\netcoreapp3.1\d.PassportProcessing.AssemblyInfo.cs
+C:\Users\Ace\RiderProjects\AoC2020\d.PassportProcessing\obj\Debug\netcoreapp3.1\d.PassportProcessing.dll
+C:\Users\Ace\RiderProjects\AoC2020\d.PassportProcessing\obj\Debug\netcoreapp3.1\d.PassportProcessing.pdb

@@ -1,0 +1,11 @@
+C:\Users\Ace\RiderProjects\AoC2020\c.TobogganTrajectory\bin\Debug\netcoreapp3.1\c.TobogganTrajectory.exe
+C:\Users\Ace\RiderProjects\AoC2020\c.TobogganTrajectory\bin\Debug\netcoreapp3.1\c.TobogganTrajectory.deps.json
+C:\Users\Ace\RiderProjects\AoC2020\c.TobogganTrajectory\bin\Debug\netcoreapp3.1\c.TobogganTrajectory.runtimeconfig.json
+C:\Users\Ace\RiderProjects\AoC2020\c.TobogganTrajectory\bin\Debug\netcoreapp3.1\c.TobogganTrajectory.runtimeconfig.dev.json
+C:\Users\Ace\RiderProjects\AoC2020\c.TobogganTrajectory\bin\Debug\netcoreapp3.1\c.TobogganTrajectory.dll
+C:\Users\Ace\RiderProjects\AoC2020\c.TobogganTrajectory\bin\Debug\netcoreapp3.1\c.TobogganTrajectory.pdb
+C:\Users\Ace\RiderProjects\AoC2020\c.TobogganTrajectory\obj\Debug\netcoreapp3.1\c.TobogganTrajectory.csprojAssemblyReference.cache
+C:\Users\Ace\RiderProjects\AoC2020\c.TobogganTrajectory\obj\Debug\netcoreapp3.1\c.TobogganTrajectory.AssemblyInfoInputs.cache
+C:\Users\Ace\RiderProjects\AoC2020\c.TobogganTrajectory\obj\Debug\netcoreapp3.1\c.TobogganTrajectory.AssemblyInfo.cs
+C:\Users\Ace\RiderProjects\AoC2020\c.TobogganTrajectory\obj\Debug\netcoreapp3.1\c.TobogganTrajectory.dll
+C:\Users\Ace\RiderProjects\AoC2020\c.TobogganTrajectory\obj\Debug\netcoreapp3.1\c.TobogganTrajectory.pdb

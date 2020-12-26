@@ -1,0 +1,15 @@
+C:\Users\Ace\RiderProjects\AoC2020\h.HandheldHalting\bin\Debug\netcoreapp3.1\a.Common.exe
+C:\Users\Ace\RiderProjects\AoC2020\h.HandheldHalting\bin\Debug\netcoreapp3.1\h.HandheldHalting.exe
+C:\Users\Ace\RiderProjects\AoC2020\h.HandheldHalting\bin\Debug\netcoreapp3.1\h.HandheldHalting.deps.json
+C:\Users\Ace\RiderProjects\AoC2020\h.HandheldHalting\bin\Debug\netcoreapp3.1\h.HandheldHalting.runtimeconfig.json
+C:\Users\Ace\RiderProjects\AoC2020\h.HandheldHalting\bin\Debug\netcoreapp3.1\h.HandheldHalting.runtimeconfig.dev.json
+C:\Users\Ace\RiderProjects\AoC2020\h.HandheldHalting\bin\Debug\netcoreapp3.1\h.HandheldHalting.dll
+C:\Users\Ace\RiderProjects\AoC2020\h.HandheldHalting\bin\Debug\netcoreapp3.1\h.HandheldHalting.pdb
+C:\Users\Ace\RiderProjects\AoC2020\h.HandheldHalting\bin\Debug\netcoreapp3.1\a.Common.dll
+C:\Users\Ace\RiderProjects\AoC2020\h.HandheldHalting\bin\Debug\netcoreapp3.1\a.Common.pdb
+C:\Users\Ace\RiderProjects\AoC2020\h.HandheldHalting\obj\Debug\netcoreapp3.1\h.HandheldHalting.csprojAssemblyReference.cache
+C:\Users\Ace\RiderProjects\AoC2020\h.HandheldHalting\obj\Debug\netcoreapp3.1\h.HandheldHalting.AssemblyInfoInputs.cache
+C:\Users\Ace\RiderProjects\AoC2020\h.HandheldHalting\obj\Debug\netcoreapp3.1\h.HandheldHalting.AssemblyInfo.cs
+C:\Users\Ace\RiderProjects\AoC2020\h.HandheldHalting\obj\Debug\netcoreapp3.1\h.HandheldHalting.csproj.CopyComplete
+C:\Users\Ace\RiderProjects\AoC2020\h.HandheldHalting\obj\Debug\netcoreapp3.1\h.HandheldHalting.dll
+C:\Users\Ace\RiderProjects\AoC2020\h.HandheldHalting\obj\Debug\netcoreapp3.1\h.HandheldHalting.pdb

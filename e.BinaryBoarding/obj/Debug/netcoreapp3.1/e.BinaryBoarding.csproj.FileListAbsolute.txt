@@ -1,0 +1,11 @@
+C:\Users\Ace\RiderProjects\AoC2020\e.BinaryBoarding\bin\Debug\netcoreapp3.1\e.BinaryBoarding.exe
+C:\Users\Ace\RiderProjects\AoC2020\e.BinaryBoarding\bin\Debug\netcoreapp3.1\e.BinaryBoarding.deps.json
+C:\Users\Ace\RiderProjects\AoC2020\e.BinaryBoarding\bin\Debug\netcoreapp3.1\e.BinaryBoarding.runtimeconfig.json
+C:\Users\Ace\RiderProjects\AoC2020\e.BinaryBoarding\bin\Debug\netcoreapp3.1\e.BinaryBoarding.runtimeconfig.dev.json
+C:\Users\Ace\RiderProjects\AoC2020\e.BinaryBoarding\bin\Debug\netcoreapp3.1\e.BinaryBoarding.dll
+C:\Users\Ace\RiderProjects\AoC2020\e.BinaryBoarding\bin\Debug\netcoreapp3.1\e.BinaryBoarding.pdb
+C:\Users\Ace\RiderProjects\AoC2020\e.BinaryBoarding\obj\Debug\netcoreapp3.1\e.BinaryBoarding.csprojAssemblyReference.cache
+C:\Users\Ace\RiderProjects\AoC2020\e.BinaryBoarding\obj\Debug\netcoreapp3.1\e.BinaryBoarding.AssemblyInfoInputs.cache
+C:\Users\Ace\RiderProjects\AoC2020\e.BinaryBoarding\obj\Debug\netcoreapp3.1\e.BinaryBoarding.AssemblyInfo.cs
+C:\Users\Ace\RiderProjects\AoC2020\e.BinaryBoarding\obj\Debug\netcoreapp3.1\e.BinaryBoarding.dll
+C:\Users\Ace\RiderProjects\AoC2020\e.BinaryBoarding\obj\Debug\netcoreapp3.1\e.BinaryBoarding.pdb

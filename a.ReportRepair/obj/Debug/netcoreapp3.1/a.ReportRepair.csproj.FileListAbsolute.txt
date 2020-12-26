@@ -1,0 +1,15 @@
+C:\Users\Ace\RiderProjects\AoC2020\a.ReportRepair\bin\Debug\netcoreapp3.1\a.ReportRepair.exe
+C:\Users\Ace\RiderProjects\AoC2020\a.ReportRepair\bin\Debug\netcoreapp3.1\a.ReportRepair.deps.json
+C:\Users\Ace\RiderProjects\AoC2020\a.ReportRepair\bin\Debug\netcoreapp3.1\a.ReportRepair.runtimeconfig.json
+C:\Users\Ace\RiderProjects\AoC2020\a.ReportRepair\bin\Debug\netcoreapp3.1\a.ReportRepair.runtimeconfig.dev.json
+C:\Users\Ace\RiderProjects\AoC2020\a.ReportRepair\bin\Debug\netcoreapp3.1\a.ReportRepair.dll
+C:\Users\Ace\RiderProjects\AoC2020\a.ReportRepair\bin\Debug\netcoreapp3.1\a.ReportRepair.pdb
+C:\Users\Ace\RiderProjects\AoC2020\a.ReportRepair\obj\Debug\netcoreapp3.1\a.ReportRepair.csprojAssemblyReference.cache
+C:\Users\Ace\RiderProjects\AoC2020\a.ReportRepair\obj\Debug\netcoreapp3.1\a.ReportRepair.AssemblyInfoInputs.cache
+C:\Users\Ace\RiderProjects\AoC2020\a.ReportRepair\obj\Debug\netcoreapp3.1\a.ReportRepair.AssemblyInfo.cs
+C:\Users\Ace\RiderProjects\AoC2020\a.ReportRepair\obj\Debug\netcoreapp3.1\a.ReportRepair.dll
+C:\Users\Ace\RiderProjects\AoC2020\a.ReportRepair\obj\Debug\netcoreapp3.1\a.ReportRepair.pdb
+C:\Users\Ace\RiderProjects\AoC2020\a.ReportRepair\bin\Debug\netcoreapp3.1\a.Common.exe
+C:\Users\Ace\RiderProjects\AoC2020\a.ReportRepair\bin\Debug\netcoreapp3.1\a.Common.dll
+C:\Users\Ace\RiderProjects\AoC2020\a.ReportRepair\bin\Debug\netcoreapp3.1\a.Common.pdb
+C:\Users\Ace\RiderProjects\AoC2020\a.ReportRepair\obj\Debug\netcoreapp3.1\a.ReportRepair.csproj.CopyComplete

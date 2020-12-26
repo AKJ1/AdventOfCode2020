@@ -1,0 +1,11 @@
+C:\Users\Ace\RiderProjects\AoC2020\a.Common\bin\Debug\netcoreapp3.1\a.Common.exe
+C:\Users\Ace\RiderProjects\AoC2020\a.Common\bin\Debug\netcoreapp3.1\a.Common.deps.json
+C:\Users\Ace\RiderProjects\AoC2020\a.Common\bin\Debug\netcoreapp3.1\a.Common.runtimeconfig.json
+C:\Users\Ace\RiderProjects\AoC2020\a.Common\bin\Debug\netcoreapp3.1\a.Common.runtimeconfig.dev.json
+C:\Users\Ace\RiderProjects\AoC2020\a.Common\bin\Debug\netcoreapp3.1\a.Common.dll
+C:\Users\Ace\RiderProjects\AoC2020\a.Common\bin\Debug\netcoreapp3.1\a.Common.pdb
+C:\Users\Ace\RiderProjects\AoC2020\a.Common\obj\Debug\netcoreapp3.1\a.Common.csprojAssemblyReference.cache
+C:\Users\Ace\RiderProjects\AoC2020\a.Common\obj\Debug\netcoreapp3.1\a.Common.AssemblyInfoInputs.cache
+C:\Users\Ace\RiderProjects\AoC2020\a.Common\obj\Debug\netcoreapp3.1\a.Common.AssemblyInfo.cs
+C:\Users\Ace\RiderProjects\AoC2020\a.Common\obj\Debug\netcoreapp3.1\a.Common.dll
+C:\Users\Ace\RiderProjects\AoC2020\a.Common\obj\Debug\netcoreapp3.1\a.Common.pdb

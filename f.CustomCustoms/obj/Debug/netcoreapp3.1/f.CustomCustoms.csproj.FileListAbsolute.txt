@@ -1,0 +1,15 @@
+C:\Users\Ace\RiderProjects\AoC2020\f.CustomCustoms\bin\Debug\netcoreapp3.1\f.CustomCustoms.exe
+C:\Users\Ace\RiderProjects\AoC2020\f.CustomCustoms\bin\Debug\netcoreapp3.1\f.CustomCustoms.deps.json
+C:\Users\Ace\RiderProjects\AoC2020\f.CustomCustoms\bin\Debug\netcoreapp3.1\f.CustomCustoms.runtimeconfig.json
+C:\Users\Ace\RiderProjects\AoC2020\f.CustomCustoms\bin\Debug\netcoreapp3.1\f.CustomCustoms.runtimeconfig.dev.json
+C:\Users\Ace\RiderProjects\AoC2020\f.CustomCustoms\bin\Debug\netcoreapp3.1\f.CustomCustoms.dll
+C:\Users\Ace\RiderProjects\AoC2020\f.CustomCustoms\bin\Debug\netcoreapp3.1\f.CustomCustoms.pdb
+C:\Users\Ace\RiderProjects\AoC2020\f.CustomCustoms\obj\Debug\netcoreapp3.1\f.CustomCustoms.csprojAssemblyReference.cache
+C:\Users\Ace\RiderProjects\AoC2020\f.CustomCustoms\obj\Debug\netcoreapp3.1\f.CustomCustoms.AssemblyInfoInputs.cache
+C:\Users\Ace\RiderProjects\AoC2020\f.CustomCustoms\obj\Debug\netcoreapp3.1\f.CustomCustoms.AssemblyInfo.cs
+C:\Users\Ace\RiderProjects\AoC2020\f.CustomCustoms\obj\Debug\netcoreapp3.1\f.CustomCustoms.dll
+C:\Users\Ace\RiderProjects\AoC2020\f.CustomCustoms\obj\Debug\netcoreapp3.1\f.CustomCustoms.pdb
+C:\Users\Ace\RiderProjects\AoC2020\f.CustomCustoms\bin\Debug\netcoreapp3.1\a.Common.exe
+C:\Users\Ace\RiderProjects\AoC2020\f.CustomCustoms\bin\Debug\netcoreapp3.1\a.Common.dll
+C:\Users\Ace\RiderProjects\AoC2020\f.CustomCustoms\bin\Debug\netcoreapp3.1\a.Common.pdb
+C:\Users\Ace\RiderProjects\AoC2020\f.CustomCustoms\obj\Debug\netcoreapp3.1\f.CustomCustoms.csproj.CopyComplete
