@@ -22,6 +22,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "i.EncodingError", "i.Encodi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "j.AdapterArray", "j.AdapterArray\j.AdapterArray.csproj", "{B2EAA23D-C81B-4E2B-9E2E-EFB7F587398D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "k.SeatingSystem", "k.SeatingSystem\k.SeatingSystem.csproj", "{AC8383A5-4A1B-4634-BB90-FC3F716857D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "l.RainRisk", "l.RainRisk\l.RainRisk.csproj", "{1611C528-4A28-419C-ABEC-A9BAB43AC5E7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -72,5 +76,13 @@ Global
 		{B2EAA23D-C81B-4E2B-9E2E-EFB7F587398D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B2EAA23D-C81B-4E2B-9E2E-EFB7F587398D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B2EAA23D-C81B-4E2B-9E2E-EFB7F587398D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8383A5-4A1B-4634-BB90-FC3F716857D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8383A5-4A1B-4634-BB90-FC3F716857D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8383A5-4A1B-4634-BB90-FC3F716857D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8383A5-4A1B-4634-BB90-FC3F716857D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1611C528-4A28-419C-ABEC-A9BAB43AC5E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1611C528-4A28-419C-ABEC-A9BAB43AC5E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1611C528-4A28-419C-ABEC-A9BAB43AC5E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1611C528-4A28-419C-ABEC-A9BAB43AC5E7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
